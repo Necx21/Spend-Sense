@@ -1,0 +1,7 @@
+{
+  "name": "SpendSense",
+  "description": "A modern, dark-themed personal expense tracker with budgeting, analytics, and smart reminders.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
